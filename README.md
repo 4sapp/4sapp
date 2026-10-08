@@ -25,11 +25,31 @@
 <h3>Languages &amp; tools</h3>
 
 <p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,bash,arduino,aws,docker,dotnet,linux&amp;theme=dark&amp;perline=9" alt="C++, C#, Python, Bash, Arduino, AWS, Docker, .NET, Linux" />
+</p>
+
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,sass,redux&amp;theme=dark&amp;perline=9" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Tailwind CSS, Sass, Redux" />
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,vite,npm,pnpm,vitest,git,github,githubactions&amp;theme=dark&amp;perline=9" alt="Node.js, Bun, Vite, npm, pnpm, Vitest, Git, GitHub, GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,babel,electron,express,heroku,mongodb,mysql,sqlite,postman&amp;theme=dark&amp;perline=9" alt="Bootstrap, Babel, Electron, Express, Heroku, MongoDB, MySQL, SQLite, Postman" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,ps,unity,unreal&amp;theme=dark&amp;perline=9" alt="Blender, Photoshop, Unity, Unreal Engine" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" width="48" height="48" alt="Mocha" />
+  &nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" width="48" height="48" alt="Materialize CSS" />
 </p>
 
 <p>
