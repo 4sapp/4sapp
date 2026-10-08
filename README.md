@@ -10,7 +10,7 @@ I write JavaScript and TypeScript, build web apps and browser extensions, and au
 
 ### My stack
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>01 / Languages</h4>
