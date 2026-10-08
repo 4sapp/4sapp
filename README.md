@@ -1,59 +1,42 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/292915970?v=4" width="128" height="128" alt="Juan" />
+<img align="right" src="https://avatars.githubusercontent.com/u/292915970?v=4" width="96" height="96" alt="Juan" />
 
-# Hey, I'm Juan 👋
+# Juan
 
-**Full-stack developer** &nbsp; / &nbsp; **4sapp**
+**Full-stack developer** · `@4sapp`
 
-`Web development` · `Automation` · `Creative coding`
-
-I build websites, browser extensions, and tools that make everyday tasks easier. I enjoy working on both sides of an application: the interface you see and the logic behind it.
-
-Good design matters to me. So does understanding how things work, experimenting with different technologies, and turning an idea into something you can actually use.
+I write JavaScript and TypeScript, build web apps and browser extensions, and automate repetitive work. I care about how an interface looks, feels, and works.
 
 <br clear="all" />
 
----
-
-### Languages & interfaces
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass&amp;theme=dark" height="48" alt="JavaScript, TypeScript, React, HTML, CSS, and Sass" />
-</p>
-
-**JavaScript · TypeScript · React · HTML · CSS · Sass**
-
-### Runtime & tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,git,github,vite&amp;theme=dark" height="48" alt="Node.js, Bun, Git, GitHub, and Vite" />
-</p>
-
-**Node.js · Bun · Git · GitHub · Vite**
-
-<br />
+### My stack
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>⌘ Web</h3>
-      Interfaces, application logic, and browser extensions.
+    <td width="50%" valign="top">
+      <h4>01 / Languages</h4>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css&amp;theme=dark" height="40" alt="TypeScript, JavaScript, HTML and CSS" />
+      <p>TypeScript · JavaScript<br />HTML · CSS</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>↗ Automation</h3>
-      Scripts, browser workflows, and testing with Playwright.
+    <td width="50%" valign="top">
+      <h4>02 / Interfaces</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,redux&amp;theme=dark" height="40" alt="React, Next.js, Tailwind CSS, Sass and Redux" />
+      <p>React · Next.js · Tailwind CSS<br />Sass · Redux · shadcn/ui · Radix UI<br />GSAP · Lucide</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>✦ Motion</h3>
-      Animation, interaction, and creative work with GSAP.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>03 / Runtime &amp; build</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,vite,npm,pnpm&amp;theme=dark" height="40" alt="Node.js, Bun, Vite, npm and pnpm" />
+      <p>Node.js · Bun · Vite<br />npm · pnpm · Zod</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04 / Testing &amp; workflow</h4>
+      <img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions&amp;theme=dark" height="40" alt="Vitest, Git, GitHub and GitHub Actions" />
+      <p>Playwright · Vitest<br />Git · GitHub Actions · ESLint · Prettier</p>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-<p align="center">
-  <b>Open to engineering roles, freelance work, and interesting ideas.</b>
-</p>
-<p align="center">
-  <a href="https://github.com/4sapp?tab=repositories">Explore my repositories ↗</a>
-</p>
+[Repositories ↗](https://github.com/4sapp?tab=repositories) &nbsp; · &nbsp; Open to full-time roles and freelance work.
