@@ -1,32 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">Juan — software developer</title>
-  <desc id="desc">A dark blue banner with Juan's name and an abstract browser window.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#152944"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#79d9ff"/>
-      <stop offset="1" stop-color="#8ea5ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
-  <path d="M860 0v340M940 0v340M1020 0v340M1100 0v340M1180 0v340M800 60h480M800 140h480M800 220h480M800 300h480" stroke="#28415c" stroke-opacity=".36"/>
-  <rect x="64" y="64" width="44" height="4" rx="2" fill="url(#accent)"/>
-  <text x="64" y="112" fill="#94acc9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4">SOFTWARE DEVELOPER</text>
-  <text x="60" y="213" fill="#f3f7fd" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="700" letter-spacing="-5">Juan.</text>
-  <text x="64" y="264" fill="#bccce0" font-family="Arial, Helvetica, sans-serif" font-size="23">Web interfaces. Open source. Careful fixes.</text>
-  <rect x="823" y="67" width="365" height="217" rx="14" fill="#0e192a" stroke="#3c526d"/>
-  <path d="M823 110h365" stroke="#3c526d"/>
-  <circle cx="846" cy="89" r="4" fill="#677f9e"/>
-  <circle cx="862" cy="89" r="4" fill="#677f9e"/>
-  <circle cx="878" cy="89" r="4" fill="#677f9e"/>
-  <rect x="908" y="81" width="183" height="16" rx="8" fill="#1e3048"/>
-  <path d="m862 147 8 8-8 8" stroke="#79d9ff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="890" y="151" width="145" height="7" rx="3.5" fill="#9bb6d9"/>
-  <rect x="851" y="185" width="165" height="6" rx="3" fill="#3b526f"/>
-  <rect x="851" y="203" width="257" height="6" rx="3" fill="#3b526f"/>
-  <rect x="851" y="221" width="207" height="6" rx="3" fill="#3b526f"/>
-  <rect x="851" y="248" width="87" height="7" rx="3.5" fill="url(#accent)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">Juan · software developer</title>
+<desc id="desc">A monochrome personal introduction with subtle borders, a code symbol, and a white developer badge.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".025"/></pattern><clipPath id="clip"><rect width="1000" height="440" rx="20"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="1000" height="440" fill="#09090b"/><rect width="1000" height="440" fill="url(#grid)"/>
+<path d="M0 79h1000" stroke="#27272a"/>
+<text x="44" y="47" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#a1a1aa" letter-spacing="2">4SAPP</text>
+<text x="956" y="47" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#71717a" letter-spacing="2">PERSONAL PROFILE / 01</text>
+<rect x="44" y="116" width="166" height="28" rx="7" fill="#18181b" stroke="#3f3f46"/><circle cx="59" cy="130" r="3" fill="#d4d4d8"/>
+<text x="72" y="134" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5" fill="#d4d4d8">NICE TO MEET YOU</text>
+<text x="38" y="250" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="110" letter-spacing="-7" fill="#fafafa">I'm Juan.</text>
+<text x="44" y="302" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="-.6" fill="#a1a1aa">I build things for the web and beyond.</text>
+<rect x="44" y="345" width="178" height="37" rx="8" fill="#fafafa"/>
+<text x="133" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#18181b">Software developer</text>
+<text x="241" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#71717a">Design-minded. Always curious.</text>
+<rect x="742" y="143" width="200" height="200" rx="25" fill="#111113" stroke="#3f3f46"/>
+<rect x="756" y="157" width="172" height="172" rx="17" fill="none" stroke="#27272a"/>
+<path d="m809 218-24 25 24 25m66-50 24 25-24 25m-20-67-24 84" fill="none" stroke="#fafafa" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="921" cy="155" r="14" fill="#fafafa"/><path d="m916 155 3 3 6-6" fill="none" stroke="#18181b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g><rect x=".5" y=".5" width="999" height="439" rx="20" fill="none" stroke="#27272a"/>
 </svg>
