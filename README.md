@@ -15,10 +15,22 @@
 
 <br />
 
-- 💻 I build apps with React, Next.js, and Node.js.
-- 🎨 I work with Tailwind CSS, shadcn/ui, and Radix UI.
-- ⚡ I also make browser extensions and tools that automate repetitive work.
-- 📬 Open to full-time roles and freelance work.
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/code-dark.svg" /><img src="./assets/code-light.svg" width="18" height="18" alt="" /></picture>
+  &nbsp; I build apps with React, Next.js, and Node.js.
+</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/palette-dark.svg" /><img src="./assets/palette-light.svg" width="18" height="18" alt="" /></picture>
+  &nbsp; I work with Tailwind CSS, shadcn/ui, and Radix UI.
+</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zap-dark.svg" /><img src="./assets/zap-light.svg" width="18" height="18" alt="" /></picture>
+  &nbsp; I also make browser extensions and tools that automate repetitive work.
+</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mail-dark.svg" /><img src="./assets/mail-light.svg" width="18" height="18" alt="" /></picture>
+  &nbsp; Open to full-time roles and freelance work.
+</p>
 
 <br />
 
